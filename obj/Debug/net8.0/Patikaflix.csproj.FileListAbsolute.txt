@@ -1,0 +1,14 @@
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikaflix/bin/Debug/net8.0/Patikaflix
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikaflix/bin/Debug/net8.0/Patikaflix.deps.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikaflix/bin/Debug/net8.0/Patikaflix.runtimeconfig.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikaflix/bin/Debug/net8.0/Patikaflix.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikaflix/bin/Debug/net8.0/Patikaflix.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikaflix/obj/Debug/net8.0/Patikaflix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikaflix/obj/Debug/net8.0/Patikaflix.AssemblyInfoInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikaflix/obj/Debug/net8.0/Patikaflix.AssemblyInfo.cs
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikaflix/obj/Debug/net8.0/Patikaflix.csproj.CoreCompileInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikaflix/obj/Debug/net8.0/Patikaflix.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikaflix/obj/Debug/net8.0/refint/Patikaflix.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikaflix/obj/Debug/net8.0/Patikaflix.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikaflix/obj/Debug/net8.0/Patikaflix.genruntimeconfig.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikaflix/obj/Debug/net8.0/ref/Patikaflix.dll
